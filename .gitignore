@@ -1,0 +1,7 @@
+Gerber/
+fp-info-cache
+fp-lib-table
+.svg2shenzhen-cache
+*.zip
+*-bak
+__pycache__
