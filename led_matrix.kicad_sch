@@ -1603,7 +1603,7 @@
     (uuid 5c66f9e1-ef48-4d67-b4da-6c756aa91920)
   )
 
-  (hierarchical_label "+5V_BOOST" (shape input) (at 43.815 29.21 180)
+  (hierarchical_label "+5V" (shape input) (at 43.815 29.21 180)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 642dfc38-ae06-4506-a4b2-48ae151dda06)
   )
