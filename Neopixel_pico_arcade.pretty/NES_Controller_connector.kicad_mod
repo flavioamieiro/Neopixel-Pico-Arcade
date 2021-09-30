@@ -1,5 +1,5 @@
 (footprint "NES_Controller_connector" (version 20210824) (generator pcbnew) (layer "F.Cu")
-  (tedit 615613C5)
+  (tedit 61561809)
   (fp_text reference "REF**" (at 0 -15.24 unlocked) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp e8703dd0-8054-4050-9c60-84ed729973e9)
@@ -39,4 +39,9 @@
   (pad "5" thru_hole circle (at 1.1557 6.096) (size 1.778 1.778) (drill 1.016) (layers *.Cu *.Mask) (tstamp 18b0a7ca-4e09-4592-a921-7238a4e752ea))
   (pad "6" thru_hole circle (at 1.1557 2.032) (size 1.778 1.778) (drill 1.016) (layers *.Cu *.Mask) (tstamp c4f3c2c0-eaf5-4738-845d-4d0f69645700))
   (pad "7" thru_hole circle (at 1.1557 -2.032) (size 1.778 1.778) (drill 1.016) (layers *.Cu *.Mask) (tstamp d829a8a7-52fd-470e-b010-7c6ebdcdaadf))
+  (model "${KIPRJMOD}/Neopixel_pico_arcade.3dshapes/NES_CONNECTOR.step"
+    (offset (xyz -4.064 -0.762 7.62))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 90))
+  )
 )
