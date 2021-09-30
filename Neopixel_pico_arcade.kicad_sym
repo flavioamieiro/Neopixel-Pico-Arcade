@@ -6,7 +6,7 @@
     (property "Value" "NES_controller_connector" (id 1) (at 13.97 -8.89 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (id 2) (at 0 0 0)
+    (property "Footprint" "Neopixel_pico_arcade:NES_Controller_connector" (id 2) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0)
