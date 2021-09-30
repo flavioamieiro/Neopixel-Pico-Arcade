@@ -2477,7 +2477,7 @@
     (uuid 99fe8e35-e5c1-4239-bd41-6a284ef403a7)
     (property "Reference" "U1" (id 0) (at 158.75 36.7242 0))
     (property "Value" "RP2040_Stamp" (id 1) (at 158.75 39.4993 0))
-    (property "Footprint" "RP2040_Stamp:RP2040_Stamp_SMD" (id 2) (at 158.75 123.19 0)
+    (property "Footprint" "RP2040_stamp:RP2040_Stamp_SMD" (id 2) (at 158.75 123.19 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 125.73 40.64 0)
@@ -3423,7 +3423,7 @@
       (reference "R2") (unit 1) (value "5.1kΩ") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
     )
     (path "/99fe8e35-e5c1-4239-bd41-6a284ef403a7"
-      (reference "U1") (unit 1) (value "RP2040_Stamp") (footprint "RP2040_Stamp:RP2040_Stamp_SMD")
+      (reference "U1") (unit 1) (value "RP2040_Stamp") (footprint "RP2040_stamp:RP2040_Stamp_SMD")
     )
     (path "/9cc9bd3c-cb16-401b-a7ae-599f0e3ee9ec"
       (reference "U2") (unit 1) (value "SN74LV1T34DBV") (footprint "Package_TO_SOT_SMD:SOT-23-5")
