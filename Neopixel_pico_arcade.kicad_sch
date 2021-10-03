@@ -2447,7 +2447,7 @@
     (uuid 6c963e39-9c66-450d-9ace-cb36b00aa8c0)
     (property "Reference" "J3" (id 0) (at 43.307 78.3398 0))
     (property "Value" "USB_C_Receptacle_USB2.0" (id 1) (at 43.307 80.6385 0))
-    (property "Footprint" "Neopixel_pico_arcade:USB_C_Receptacle_JAE_DX07S016JA1" (id 2) (at 44.45 100.33 0)
+    (property "Footprint" "Neopixel_pico_arcade:USB_C_Receptacle_USB_2_GTC_USB4105" (id 2) (at 44.45 100.33 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.usb.org/sites/default/files/documents/usb_type-c.zip" (id 3) (at 44.45 100.33 0)
@@ -3405,7 +3405,7 @@
       (reference "J2") (unit 1) (value "NES_controller_connector") (footprint "Neopixel_pico_arcade:NES_Controller_connector")
     )
     (path "/6c963e39-9c66-450d-9ace-cb36b00aa8c0"
-      (reference "J3") (unit 1) (value "USB_C_Receptacle_USB2.0") (footprint "Neopixel_pico_arcade:USB_C_Receptacle_JAE_DX07S016JA1")
+      (reference "J3") (unit 1) (value "USB_C_Receptacle_USB2.0") (footprint "Neopixel_pico_arcade:USB_C_Receptacle_USB_2_GTC_USB4105")
     )
     (path "/a9c99e6b-55b1-4adc-8611-0aea35c1c656"
       (reference "JP1") (unit 1) (value "jmp") (footprint "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm")
