@@ -3405,196 +3405,196 @@
       (reference "C66") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/d2af77fd-8c51-4405-aac4-62eaf6341e78"
-      (reference "D1") (unit 1) (value "WS2812C") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+      (reference "D1") (unit 1) (value "WS2812C") (footprint "Neopixel_pico_arcade:LED_WS2812C_HIDDEN_SILKSCREEN_5.0x5.0mm_P3.2mm")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/29f480fb-2349-495f-9e29-915a2f234c5d"
-      (reference "D2") (unit 1) (value "WS2812C") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+      (reference "D2") (unit 1) (value "WS2812C") (footprint "Neopixel_pico_arcade:LED_WS2812C_HIDDEN_SILKSCREEN_5.0x5.0mm_P3.2mm")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/0a2b798f-4b77-4557-b373-99d0746234c1"
-      (reference "D3") (unit 1) (value "WS2812C") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+      (reference "D3") (unit 1) (value "WS2812C") (footprint "Neopixel_pico_arcade:LED_WS2812C_HIDDEN_SILKSCREEN_5.0x5.0mm_P3.2mm")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/496ec169-a360-4202-8726-7b42a1abb6f6"
-      (reference "D4") (unit 1) (value "WS2812C") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+      (reference "D4") (unit 1) (value "WS2812C") (footprint "Neopixel_pico_arcade:LED_WS2812C_HIDDEN_SILKSCREEN_5.0x5.0mm_P3.2mm")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/d338bd88-0ff9-49b7-b5ce-f5bb40d4aa79"
-      (reference "D5") (unit 1) (value "WS2812C") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+      (reference "D5") (unit 1) (value "WS2812C") (footprint "Neopixel_pico_arcade:LED_WS2812C_HIDDEN_SILKSCREEN_5.0x5.0mm_P3.2mm")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/bfb16608-8135-46de-b9dc-a4c21d0aaa2f"
-      (reference "D6") (unit 1) (value "WS2812C") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+      (reference "D6") (unit 1) (value "WS2812C") (footprint "Neopixel_pico_arcade:LED_WS2812C_HIDDEN_SILKSCREEN_5.0x5.0mm_P3.2mm")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/19995f07-6a1a-4f22-95d0-c75eec3af336"
-      (reference "D7") (unit 1) (value "WS2812C") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+      (reference "D7") (unit 1) (value "WS2812C") (footprint "Neopixel_pico_arcade:LED_WS2812C_HIDDEN_SILKSCREEN_5.0x5.0mm_P3.2mm")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/bfafc8c7-6dea-4403-b4e0-0b55cf75c49e"
-      (reference "D8") (unit 1) (value "WS2812C") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+      (reference "D8") (unit 1) (value "WS2812C") (footprint "Neopixel_pico_arcade:LED_WS2812C_HIDDEN_SILKSCREEN_5.0x5.0mm_P3.2mm")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/1f9a7f7e-078d-4cd4-bec3-b14c8bf93807"
-      (reference "D9") (unit 1) (value "WS2812C") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+      (reference "D9") (unit 1) (value "WS2812C") (footprint "Neopixel_pico_arcade:LED_WS2812C_HIDDEN_SILKSCREEN_5.0x5.0mm_P3.2mm")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/fdf99621-a693-400f-9a3b-532b269dc58b"
-      (reference "D10") (unit 1) (value "WS2812C") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+      (reference "D10") (unit 1) (value "WS2812C") (footprint "Neopixel_pico_arcade:LED_WS2812C_HIDDEN_SILKSCREEN_5.0x5.0mm_P3.2mm")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/6729e6b8-7c34-4f19-ba34-bbff9db2ef24"
-      (reference "D11") (unit 1) (value "WS2812C") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+      (reference "D11") (unit 1) (value "WS2812C") (footprint "Neopixel_pico_arcade:LED_WS2812C_HIDDEN_SILKSCREEN_5.0x5.0mm_P3.2mm")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/626fe0d9-57f1-4b82-aa40-cb2283a99b0d"
-      (reference "D12") (unit 1) (value "WS2812C") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+      (reference "D12") (unit 1) (value "WS2812C") (footprint "Neopixel_pico_arcade:LED_WS2812C_HIDDEN_SILKSCREEN_5.0x5.0mm_P3.2mm")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/dd6e3212-b070-41a4-aa7a-f3feb7fb9a04"
-      (reference "D13") (unit 1) (value "WS2812C") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+      (reference "D13") (unit 1) (value "WS2812C") (footprint "Neopixel_pico_arcade:LED_WS2812C_HIDDEN_SILKSCREEN_5.0x5.0mm_P3.2mm")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/7b63ae46-e831-4a32-99c9-3f5225670f88"
-      (reference "D14") (unit 1) (value "WS2812C") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+      (reference "D14") (unit 1) (value "WS2812C") (footprint "Neopixel_pico_arcade:LED_WS2812C_HIDDEN_SILKSCREEN_5.0x5.0mm_P3.2mm")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/12dd78b7-aeef-4994-a84d-7424a0765363"
-      (reference "D15") (unit 1) (value "WS2812C") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+      (reference "D15") (unit 1) (value "WS2812C") (footprint "Neopixel_pico_arcade:LED_WS2812C_HIDDEN_SILKSCREEN_5.0x5.0mm_P3.2mm")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/b7b9649d-6678-4a05-beb9-d957d4583805"
-      (reference "D16") (unit 1) (value "WS2812C") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+      (reference "D16") (unit 1) (value "WS2812C") (footprint "Neopixel_pico_arcade:LED_WS2812C_HIDDEN_SILKSCREEN_5.0x5.0mm_P3.2mm")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/1a83cb15-7c60-4f67-afc8-cb4759ad59ec"
-      (reference "D17") (unit 1) (value "WS2812C") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+      (reference "D17") (unit 1) (value "WS2812C") (footprint "Neopixel_pico_arcade:LED_WS2812C_HIDDEN_SILKSCREEN_5.0x5.0mm_P3.2mm")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/f18706b9-1212-4c6f-9adf-b52eb61ac374"
-      (reference "D18") (unit 1) (value "WS2812C") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+      (reference "D18") (unit 1) (value "WS2812C") (footprint "Neopixel_pico_arcade:LED_WS2812C_HIDDEN_SILKSCREEN_5.0x5.0mm_P3.2mm")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/9ca40ef9-0864-428f-8884-075e7de8a1f1"
-      (reference "D19") (unit 1) (value "WS2812C") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+      (reference "D19") (unit 1) (value "WS2812C") (footprint "Neopixel_pico_arcade:LED_WS2812C_HIDDEN_SILKSCREEN_5.0x5.0mm_P3.2mm")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/4063e4c6-804e-48ce-a77e-b29a3c347e7a"
-      (reference "D20") (unit 1) (value "WS2812C") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+      (reference "D20") (unit 1) (value "WS2812C") (footprint "Neopixel_pico_arcade:LED_WS2812C_HIDDEN_SILKSCREEN_5.0x5.0mm_P3.2mm")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/bf58ef0c-1a2d-44a7-9231-bc35a11662f5"
-      (reference "D21") (unit 1) (value "WS2812C") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+      (reference "D21") (unit 1) (value "WS2812C") (footprint "Neopixel_pico_arcade:LED_WS2812C_HIDDEN_SILKSCREEN_5.0x5.0mm_P3.2mm")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/ff46b471-e18c-4ea0-ba91-055d2886b4b4"
-      (reference "D22") (unit 1) (value "WS2812C") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+      (reference "D22") (unit 1) (value "WS2812C") (footprint "Neopixel_pico_arcade:LED_WS2812C_HIDDEN_SILKSCREEN_5.0x5.0mm_P3.2mm")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/e5dc5d8a-b9fc-45a3-91ab-5570789301a1"
-      (reference "D23") (unit 1) (value "WS2812C") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+      (reference "D23") (unit 1) (value "WS2812C") (footprint "Neopixel_pico_arcade:LED_WS2812C_HIDDEN_SILKSCREEN_5.0x5.0mm_P3.2mm")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/4bb1909e-893a-4f6a-9975-a948a377a095"
-      (reference "D24") (unit 1) (value "WS2812C") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+      (reference "D24") (unit 1) (value "WS2812C") (footprint "Neopixel_pico_arcade:LED_WS2812C_HIDDEN_SILKSCREEN_5.0x5.0mm_P3.2mm")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/668de53f-e3fb-4633-9dc2-db3810526fea"
-      (reference "D25") (unit 1) (value "WS2812C") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+      (reference "D25") (unit 1) (value "WS2812C") (footprint "Neopixel_pico_arcade:LED_WS2812C_HIDDEN_SILKSCREEN_5.0x5.0mm_P3.2mm")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/77cc6b21-c7bc-45db-8f04-5a06d0329851"
-      (reference "D26") (unit 1) (value "WS2812C") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+      (reference "D26") (unit 1) (value "WS2812C") (footprint "Neopixel_pico_arcade:LED_WS2812C_HIDDEN_SILKSCREEN_5.0x5.0mm_P3.2mm")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/b44a30a3-37b9-4c00-abf6-e445caaf4207"
-      (reference "D27") (unit 1) (value "WS2812C") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+      (reference "D27") (unit 1) (value "WS2812C") (footprint "Neopixel_pico_arcade:LED_WS2812C_HIDDEN_SILKSCREEN_5.0x5.0mm_P3.2mm")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/932cccd7-2125-4339-bfca-8235629ace1c"
-      (reference "D28") (unit 1) (value "WS2812C") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+      (reference "D28") (unit 1) (value "WS2812C") (footprint "Neopixel_pico_arcade:LED_WS2812C_HIDDEN_SILKSCREEN_5.0x5.0mm_P3.2mm")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/159cb65c-8f22-47d0-b577-a1e5162f7075"
-      (reference "D29") (unit 1) (value "WS2812C") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+      (reference "D29") (unit 1) (value "WS2812C") (footprint "Neopixel_pico_arcade:LED_WS2812C_HIDDEN_SILKSCREEN_5.0x5.0mm_P3.2mm")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/05c67301-7576-437d-bdd3-4e0178e17486"
-      (reference "D30") (unit 1) (value "WS2812C") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+      (reference "D30") (unit 1) (value "WS2812C") (footprint "Neopixel_pico_arcade:LED_WS2812C_HIDDEN_SILKSCREEN_5.0x5.0mm_P3.2mm")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/dd040a65-c614-4878-8adf-77d9451c42d4"
-      (reference "D31") (unit 1) (value "WS2812C") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+      (reference "D31") (unit 1) (value "WS2812C") (footprint "Neopixel_pico_arcade:LED_WS2812C_HIDDEN_SILKSCREEN_5.0x5.0mm_P3.2mm")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/3b7bf1d9-6243-491f-a1f9-9a65aa75869b"
-      (reference "D32") (unit 1) (value "WS2812C") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+      (reference "D32") (unit 1) (value "WS2812C") (footprint "Neopixel_pico_arcade:LED_WS2812C_HIDDEN_SILKSCREEN_5.0x5.0mm_P3.2mm")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/164de3bf-894a-40d2-9bd9-0b905f7b4a95"
-      (reference "D33") (unit 1) (value "WS2812C") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+      (reference "D33") (unit 1) (value "WS2812C") (footprint "Neopixel_pico_arcade:LED_WS2812C_HIDDEN_SILKSCREEN_5.0x5.0mm_P3.2mm")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/64a7d124-9cc7-48ce-ba76-671117bdc3d1"
-      (reference "D34") (unit 1) (value "WS2812C") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+      (reference "D34") (unit 1) (value "WS2812C") (footprint "Neopixel_pico_arcade:LED_WS2812C_HIDDEN_SILKSCREEN_5.0x5.0mm_P3.2mm")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/59a2f442-6178-43cc-af40-877cfe8dd5f0"
-      (reference "D35") (unit 1) (value "WS2812C") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+      (reference "D35") (unit 1) (value "WS2812C") (footprint "Neopixel_pico_arcade:LED_WS2812C_HIDDEN_SILKSCREEN_5.0x5.0mm_P3.2mm")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/12d833eb-4904-45df-95bb-9f24b6bdeb34"
-      (reference "D36") (unit 1) (value "WS2812C") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+      (reference "D36") (unit 1) (value "WS2812C") (footprint "Neopixel_pico_arcade:LED_WS2812C_HIDDEN_SILKSCREEN_5.0x5.0mm_P3.2mm")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/da052d67-c205-4903-b4fe-ddb2a6419e54"
-      (reference "D37") (unit 1) (value "WS2812C") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+      (reference "D37") (unit 1) (value "WS2812C") (footprint "Neopixel_pico_arcade:LED_WS2812C_HIDDEN_SILKSCREEN_5.0x5.0mm_P3.2mm")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/118a6978-b688-47a7-8ae8-425af191d2fb"
-      (reference "D38") (unit 1) (value "WS2812C") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+      (reference "D38") (unit 1) (value "WS2812C") (footprint "Neopixel_pico_arcade:LED_WS2812C_HIDDEN_SILKSCREEN_5.0x5.0mm_P3.2mm")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/a362be2e-b562-413b-9809-434f93385b9e"
-      (reference "D39") (unit 1) (value "WS2812C") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+      (reference "D39") (unit 1) (value "WS2812C") (footprint "Neopixel_pico_arcade:LED_WS2812C_HIDDEN_SILKSCREEN_5.0x5.0mm_P3.2mm")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/dcfd3a8b-bfc0-4ec2-a5e8-becec33106bb"
-      (reference "D40") (unit 1) (value "WS2812C") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+      (reference "D40") (unit 1) (value "WS2812C") (footprint "Neopixel_pico_arcade:LED_WS2812C_HIDDEN_SILKSCREEN_5.0x5.0mm_P3.2mm")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/1312c6b4-640f-487f-8213-c0139ceea3a9"
-      (reference "D41") (unit 1) (value "WS2812C") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+      (reference "D41") (unit 1) (value "WS2812C") (footprint "Neopixel_pico_arcade:LED_WS2812C_HIDDEN_SILKSCREEN_5.0x5.0mm_P3.2mm")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/b5525e6c-3b64-42f7-8a9f-1d3960fbd6e5"
-      (reference "D42") (unit 1) (value "WS2812C") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+      (reference "D42") (unit 1) (value "WS2812C") (footprint "Neopixel_pico_arcade:LED_WS2812C_HIDDEN_SILKSCREEN_5.0x5.0mm_P3.2mm")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/3447832d-1dbf-4a24-b991-9336e2318b84"
-      (reference "D43") (unit 1) (value "WS2812C") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+      (reference "D43") (unit 1) (value "WS2812C") (footprint "Neopixel_pico_arcade:LED_WS2812C_HIDDEN_SILKSCREEN_5.0x5.0mm_P3.2mm")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/6e062b83-fa63-4ec0-bc99-f39ffc72df35"
-      (reference "D44") (unit 1) (value "WS2812C") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+      (reference "D44") (unit 1) (value "WS2812C") (footprint "Neopixel_pico_arcade:LED_WS2812C_HIDDEN_SILKSCREEN_5.0x5.0mm_P3.2mm")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/b74492b0-f44e-4b38-a315-bf11818fcfa6"
-      (reference "D45") (unit 1) (value "WS2812C") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+      (reference "D45") (unit 1) (value "WS2812C") (footprint "Neopixel_pico_arcade:LED_WS2812C_HIDDEN_SILKSCREEN_5.0x5.0mm_P3.2mm")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/9ce8ac1a-b4a5-48a7-b2aa-f258451cc5aa"
-      (reference "D46") (unit 1) (value "WS2812C") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+      (reference "D46") (unit 1) (value "WS2812C") (footprint "Neopixel_pico_arcade:LED_WS2812C_HIDDEN_SILKSCREEN_5.0x5.0mm_P3.2mm")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/fa7fe76e-8ebd-46ae-be37-5677897bcb8e"
-      (reference "D47") (unit 1) (value "WS2812C") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+      (reference "D47") (unit 1) (value "WS2812C") (footprint "Neopixel_pico_arcade:LED_WS2812C_HIDDEN_SILKSCREEN_5.0x5.0mm_P3.2mm")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/b8bed640-6094-4228-81fa-14519186b69c"
-      (reference "D48") (unit 1) (value "WS2812C") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+      (reference "D48") (unit 1) (value "WS2812C") (footprint "Neopixel_pico_arcade:LED_WS2812C_HIDDEN_SILKSCREEN_5.0x5.0mm_P3.2mm")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/27be9b00-5dca-4361-9c49-3718c8bcfb3b"
-      (reference "D49") (unit 1) (value "WS2812C") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+      (reference "D49") (unit 1) (value "WS2812C") (footprint "Neopixel_pico_arcade:LED_WS2812C_HIDDEN_SILKSCREEN_5.0x5.0mm_P3.2mm")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/23927ec5-f199-4567-a1e7-821e3b36caf7"
-      (reference "D50") (unit 1) (value "WS2812C") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+      (reference "D50") (unit 1) (value "WS2812C") (footprint "Neopixel_pico_arcade:LED_WS2812C_HIDDEN_SILKSCREEN_5.0x5.0mm_P3.2mm")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/2ed1938c-5751-4b5a-b9e5-be6ad59521d8"
-      (reference "D51") (unit 1) (value "WS2812C") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+      (reference "D51") (unit 1) (value "WS2812C") (footprint "Neopixel_pico_arcade:LED_WS2812C_HIDDEN_SILKSCREEN_5.0x5.0mm_P3.2mm")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/0b0151f6-6acf-4179-86f2-8134a380b5a8"
-      (reference "D52") (unit 1) (value "WS2812C") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+      (reference "D52") (unit 1) (value "WS2812C") (footprint "Neopixel_pico_arcade:LED_WS2812C_HIDDEN_SILKSCREEN_5.0x5.0mm_P3.2mm")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/95fc150d-4f1f-4f04-b5ca-e7d88a874fb4"
-      (reference "D53") (unit 1) (value "WS2812C") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+      (reference "D53") (unit 1) (value "WS2812C") (footprint "Neopixel_pico_arcade:LED_WS2812C_HIDDEN_SILKSCREEN_5.0x5.0mm_P3.2mm")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/1037f5f5-d4c2-4cd0-a5ce-0c636fdd8a98"
-      (reference "D54") (unit 1) (value "WS2812C") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+      (reference "D54") (unit 1) (value "WS2812C") (footprint "Neopixel_pico_arcade:LED_WS2812C_HIDDEN_SILKSCREEN_5.0x5.0mm_P3.2mm")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/e8573c82-ea23-4d78-84f2-5d4f15481f4b"
-      (reference "D55") (unit 1) (value "WS2812C") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+      (reference "D55") (unit 1) (value "WS2812C") (footprint "Neopixel_pico_arcade:LED_WS2812C_HIDDEN_SILKSCREEN_5.0x5.0mm_P3.2mm")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/f6e46139-4a23-46b5-938a-8858a3e7259e"
-      (reference "D56") (unit 1) (value "WS2812C") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+      (reference "D56") (unit 1) (value "WS2812C") (footprint "Neopixel_pico_arcade:LED_WS2812C_HIDDEN_SILKSCREEN_5.0x5.0mm_P3.2mm")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/7c847cae-f85c-48c5-8276-38973d2e50b0"
-      (reference "D57") (unit 1) (value "WS2812C") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+      (reference "D57") (unit 1) (value "WS2812C") (footprint "Neopixel_pico_arcade:LED_WS2812C_HIDDEN_SILKSCREEN_5.0x5.0mm_P3.2mm")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/881b2d57-8f58-47af-b403-c5f1f0ce4e49"
-      (reference "D58") (unit 1) (value "WS2812C") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+      (reference "D58") (unit 1) (value "WS2812C") (footprint "Neopixel_pico_arcade:LED_WS2812C_HIDDEN_SILKSCREEN_5.0x5.0mm_P3.2mm")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/3b449c0c-3680-4367-99ab-0504bb65e1fd"
-      (reference "D59") (unit 1) (value "WS2812C") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+      (reference "D59") (unit 1) (value "WS2812C") (footprint "Neopixel_pico_arcade:LED_WS2812C_HIDDEN_SILKSCREEN_5.0x5.0mm_P3.2mm")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/d7a334ed-3573-483c-a13f-001a5a5f71b9"
-      (reference "D60") (unit 1) (value "WS2812C") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+      (reference "D60") (unit 1) (value "WS2812C") (footprint "Neopixel_pico_arcade:LED_WS2812C_HIDDEN_SILKSCREEN_5.0x5.0mm_P3.2mm")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/fe9a1790-3448-4d34-b852-a2d1aa2fb99d"
-      (reference "D61") (unit 1) (value "WS2812C") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+      (reference "D61") (unit 1) (value "WS2812C") (footprint "Neopixel_pico_arcade:LED_WS2812C_HIDDEN_SILKSCREEN_5.0x5.0mm_P3.2mm")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/c24f662d-9f81-473b-a09f-a5cef94efa19"
-      (reference "D62") (unit 1) (value "WS2812C") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+      (reference "D62") (unit 1) (value "WS2812C") (footprint "Neopixel_pico_arcade:LED_WS2812C_HIDDEN_SILKSCREEN_5.0x5.0mm_P3.2mm")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/c9774859-c4da-45bc-8cb3-c1fcf5ad822f"
-      (reference "D63") (unit 1) (value "WS2812C") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+      (reference "D63") (unit 1) (value "WS2812C") (footprint "Neopixel_pico_arcade:LED_WS2812C_HIDDEN_SILKSCREEN_5.0x5.0mm_P3.2mm")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/5f02606e-064c-48ca-8d37-433a6febd762"
-      (reference "D64") (unit 1) (value "WS2812C") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+      (reference "D64") (unit 1) (value "WS2812C") (footprint "Neopixel_pico_arcade:LED_WS2812C_HIDDEN_SILKSCREEN_5.0x5.0mm_P3.2mm")
     )
     (path "/74305f2c-f10c-4e4c-a8ae-084ce366880f"
       (reference "F1") (unit 1) (value "PTC 1A") (footprint "Neopixel_pico_arcade:Belfuse_0ZCJ")
