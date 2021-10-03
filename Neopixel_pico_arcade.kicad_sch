@@ -3213,196 +3213,196 @@
       (reference "C2") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/a273ebb2-c452-410f-91e9-055d09d453c4"
-      (reference "C3") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+      (reference "C3") (unit 1) (value "100nF") (footprint "Neopixel_pico_arcade:C_0805_hidden_silkscreen_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/036e724e-83ea-4eee-b0d5-3cbac0d4b53a"
-      (reference "C4") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+      (reference "C4") (unit 1) (value "100nF") (footprint "Neopixel_pico_arcade:C_0805_hidden_silkscreen_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/a80430b8-a480-4fec-a653-0c38f0f641ad"
-      (reference "C5") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+      (reference "C5") (unit 1) (value "100nF") (footprint "Neopixel_pico_arcade:C_0805_hidden_silkscreen_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/6129e394-be24-44ab-a823-152139821c21"
-      (reference "C6") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+      (reference "C6") (unit 1) (value "100nF") (footprint "Neopixel_pico_arcade:C_0805_hidden_silkscreen_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/7a4be3ba-c38d-46a1-8bff-9fa0267bc29f"
-      (reference "C7") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+      (reference "C7") (unit 1) (value "100nF") (footprint "Neopixel_pico_arcade:C_0805_hidden_silkscreen_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/cbb71e26-e7b2-438e-b22c-0a8ead8e8726"
-      (reference "C8") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+      (reference "C8") (unit 1) (value "100nF") (footprint "Neopixel_pico_arcade:C_0805_hidden_silkscreen_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/39dd28fc-90de-495d-a5f9-c2d16012afdd"
-      (reference "C9") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+      (reference "C9") (unit 1) (value "100nF") (footprint "Neopixel_pico_arcade:C_0805_hidden_silkscreen_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/a7c4de56-16a4-4735-81fb-9c3a736e3a47"
-      (reference "C10") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+      (reference "C10") (unit 1) (value "100nF") (footprint "Neopixel_pico_arcade:C_0805_hidden_silkscreen_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/73ec02ae-5d59-42ce-bc86-9bcd33143b22"
-      (reference "C11") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+      (reference "C11") (unit 1) (value "100nF") (footprint "Neopixel_pico_arcade:C_0805_hidden_silkscreen_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/934a032a-8944-4fe6-9104-f8e098eec653"
-      (reference "C12") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+      (reference "C12") (unit 1) (value "100nF") (footprint "Neopixel_pico_arcade:C_0805_hidden_silkscreen_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/d1caa5ef-5170-4655-a090-a6a739604f8b"
-      (reference "C13") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+      (reference "C13") (unit 1) (value "100nF") (footprint "Neopixel_pico_arcade:C_0805_hidden_silkscreen_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/c67f0e37-cf37-4b8e-8c62-d711af84f29d"
-      (reference "C14") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+      (reference "C14") (unit 1) (value "100nF") (footprint "Neopixel_pico_arcade:C_0805_hidden_silkscreen_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/27bab16c-f016-4072-bcd7-49cc4e5414e3"
-      (reference "C15") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+      (reference "C15") (unit 1) (value "100nF") (footprint "Neopixel_pico_arcade:C_0805_hidden_silkscreen_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/dd8e88be-eb88-4d13-aa4d-4b1b4112d5c5"
-      (reference "C16") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+      (reference "C16") (unit 1) (value "100nF") (footprint "Neopixel_pico_arcade:C_0805_hidden_silkscreen_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/03f0e98a-2913-438d-aa01-fb869ef081cc"
-      (reference "C17") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+      (reference "C17") (unit 1) (value "100nF") (footprint "Neopixel_pico_arcade:C_0805_hidden_silkscreen_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/9730bbb1-cfc3-4079-8487-5370ca53590e"
-      (reference "C18") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+      (reference "C18") (unit 1) (value "100nF") (footprint "Neopixel_pico_arcade:C_0805_hidden_silkscreen_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/1d3bd9ec-6cfa-4e9c-83fc-ed40407ec13a"
-      (reference "C19") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+      (reference "C19") (unit 1) (value "100nF") (footprint "Neopixel_pico_arcade:C_0805_hidden_silkscreen_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/5dac647e-d692-4333-8dce-8588413fdabb"
-      (reference "C20") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+      (reference "C20") (unit 1) (value "100nF") (footprint "Neopixel_pico_arcade:C_0805_hidden_silkscreen_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/45a55838-3e5c-4754-93c1-b22db5fcfdfc"
-      (reference "C21") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+      (reference "C21") (unit 1) (value "100nF") (footprint "Neopixel_pico_arcade:C_0805_hidden_silkscreen_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/9bcc835e-9925-49b3-a464-254d7e6a37cb"
-      (reference "C22") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+      (reference "C22") (unit 1) (value "100nF") (footprint "Neopixel_pico_arcade:C_0805_hidden_silkscreen_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/f418ece5-aa63-40d1-9788-e3bb87cf0be8"
-      (reference "C23") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+      (reference "C23") (unit 1) (value "100nF") (footprint "Neopixel_pico_arcade:C_0805_hidden_silkscreen_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/e55e8464-3455-40c3-8a11-ac30541d007c"
-      (reference "C24") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+      (reference "C24") (unit 1) (value "100nF") (footprint "Neopixel_pico_arcade:C_0805_hidden_silkscreen_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/10af8253-9543-40e8-925a-0d91516d9789"
-      (reference "C25") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+      (reference "C25") (unit 1) (value "100nF") (footprint "Neopixel_pico_arcade:C_0805_hidden_silkscreen_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/847488af-ff39-4152-8216-10624a910c22"
-      (reference "C26") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+      (reference "C26") (unit 1) (value "100nF") (footprint "Neopixel_pico_arcade:C_0805_hidden_silkscreen_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/8bc80a69-d1b7-4f2d-a904-aa15946e4281"
-      (reference "C27") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+      (reference "C27") (unit 1) (value "100nF") (footprint "Neopixel_pico_arcade:C_0805_hidden_silkscreen_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/7806ab59-ed20-4a12-89ba-44efe5f22b14"
-      (reference "C28") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+      (reference "C28") (unit 1) (value "100nF") (footprint "Neopixel_pico_arcade:C_0805_hidden_silkscreen_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/cc4dedb9-8a14-42c7-a304-58cafa29c756"
-      (reference "C29") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+      (reference "C29") (unit 1) (value "100nF") (footprint "Neopixel_pico_arcade:C_0805_hidden_silkscreen_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/35c34bbb-ba79-4863-89e4-c2e30bf6c81c"
-      (reference "C30") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+      (reference "C30") (unit 1) (value "100nF") (footprint "Neopixel_pico_arcade:C_0805_hidden_silkscreen_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/b1c1de0d-f771-461f-b33f-061e3fad5f80"
-      (reference "C31") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+      (reference "C31") (unit 1) (value "100nF") (footprint "Neopixel_pico_arcade:C_0805_hidden_silkscreen_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/6352cfc4-8215-4136-b936-955436df5d25"
-      (reference "C32") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+      (reference "C32") (unit 1) (value "100nF") (footprint "Neopixel_pico_arcade:C_0805_hidden_silkscreen_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/ae6374e2-6718-4c6c-8009-f6f7cec11e5d"
-      (reference "C33") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+      (reference "C33") (unit 1) (value "100nF") (footprint "Neopixel_pico_arcade:C_0805_hidden_silkscreen_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/7753151c-a4fd-4a7d-9a7b-a1e0da052c63"
-      (reference "C34") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+      (reference "C34") (unit 1) (value "100nF") (footprint "Neopixel_pico_arcade:C_0805_hidden_silkscreen_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/dc7fc07e-6928-49d4-b563-b0af711afaa0"
-      (reference "C35") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+      (reference "C35") (unit 1) (value "100nF") (footprint "Neopixel_pico_arcade:C_0805_hidden_silkscreen_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/66d77b3a-ae5e-43b3-ae8e-6d226efc4ad1"
-      (reference "C36") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+      (reference "C36") (unit 1) (value "100nF") (footprint "Neopixel_pico_arcade:C_0805_hidden_silkscreen_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/0144007e-58aa-4b66-9b0a-22eda0943d6c"
-      (reference "C37") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+      (reference "C37") (unit 1) (value "100nF") (footprint "Neopixel_pico_arcade:C_0805_hidden_silkscreen_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/95476070-bcf4-40f5-ada2-f64bab40697c"
-      (reference "C38") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+      (reference "C38") (unit 1) (value "100nF") (footprint "Neopixel_pico_arcade:C_0805_hidden_silkscreen_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/248770b8-b2e1-4962-92b3-c9e616437efc"
-      (reference "C39") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+      (reference "C39") (unit 1) (value "100nF") (footprint "Neopixel_pico_arcade:C_0805_hidden_silkscreen_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/923f82a7-f3db-4608-9032-b18aee1ca908"
-      (reference "C40") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+      (reference "C40") (unit 1) (value "100nF") (footprint "Neopixel_pico_arcade:C_0805_hidden_silkscreen_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/bd91c85e-5844-4586-802f-a52377138056"
-      (reference "C41") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+      (reference "C41") (unit 1) (value "100nF") (footprint "Neopixel_pico_arcade:C_0805_hidden_silkscreen_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/6171bfc7-80a6-41d0-a316-8fca1e2b3981"
-      (reference "C42") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+      (reference "C42") (unit 1) (value "100nF") (footprint "Neopixel_pico_arcade:C_0805_hidden_silkscreen_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/bc66cf26-52fa-4983-b41c-2ba885162ef3"
-      (reference "C43") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+      (reference "C43") (unit 1) (value "100nF") (footprint "Neopixel_pico_arcade:C_0805_hidden_silkscreen_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/b18ec26a-0ff3-4356-bdd0-b0a15ef827ba"
-      (reference "C44") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+      (reference "C44") (unit 1) (value "100nF") (footprint "Neopixel_pico_arcade:C_0805_hidden_silkscreen_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/c5fcf92b-92e9-43b6-b7e7-c83cb6a00f46"
-      (reference "C45") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+      (reference "C45") (unit 1) (value "100nF") (footprint "Neopixel_pico_arcade:C_0805_hidden_silkscreen_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/0402997c-a8d9-4ff3-bf04-05d0bb6929db"
-      (reference "C46") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+      (reference "C46") (unit 1) (value "100nF") (footprint "Neopixel_pico_arcade:C_0805_hidden_silkscreen_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/3b4719be-c662-4b91-9f0e-1aa2e651cfc8"
-      (reference "C47") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+      (reference "C47") (unit 1) (value "100nF") (footprint "Neopixel_pico_arcade:C_0805_hidden_silkscreen_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/f23d8575-29c3-4f00-945c-ff8b0c3f46b4"
-      (reference "C48") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+      (reference "C48") (unit 1) (value "100nF") (footprint "Neopixel_pico_arcade:C_0805_hidden_silkscreen_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/99b6eb66-3946-40de-9621-43626186e41a"
-      (reference "C49") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+      (reference "C49") (unit 1) (value "100nF") (footprint "Neopixel_pico_arcade:C_0805_hidden_silkscreen_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/7361b99c-ae55-4776-9597-26625b900ce4"
-      (reference "C50") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+      (reference "C50") (unit 1) (value "100nF") (footprint "Neopixel_pico_arcade:C_0805_hidden_silkscreen_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/2019ec21-6b7f-42d7-a7e2-f283175d8ecb"
-      (reference "C51") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+      (reference "C51") (unit 1) (value "100nF") (footprint "Neopixel_pico_arcade:C_0805_hidden_silkscreen_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/710f99cf-5e8d-4908-9f95-8e7b42666f7e"
-      (reference "C52") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+      (reference "C52") (unit 1) (value "100nF") (footprint "Neopixel_pico_arcade:C_0805_hidden_silkscreen_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/6224d43b-4fc1-48e1-9019-ae2ef09710d0"
-      (reference "C53") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+      (reference "C53") (unit 1) (value "100nF") (footprint "Neopixel_pico_arcade:C_0805_hidden_silkscreen_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/2ee128b1-cd09-4ba0-8aaf-b8eb4cb1f763"
-      (reference "C54") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+      (reference "C54") (unit 1) (value "100nF") (footprint "Neopixel_pico_arcade:C_0805_hidden_silkscreen_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/2a05c4db-e2b9-46f3-89ab-a559885a16b8"
-      (reference "C55") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+      (reference "C55") (unit 1) (value "100nF") (footprint "Neopixel_pico_arcade:C_0805_hidden_silkscreen_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/ff8d2ee8-d296-4d0f-b1de-8b3d59b956d6"
-      (reference "C56") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+      (reference "C56") (unit 1) (value "100nF") (footprint "Neopixel_pico_arcade:C_0805_hidden_silkscreen_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/bdc44eef-51d2-4ecb-a873-2793bf999f0d"
-      (reference "C57") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+      (reference "C57") (unit 1) (value "100nF") (footprint "Neopixel_pico_arcade:C_0805_hidden_silkscreen_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/0c2de4ca-48f4-4a42-8942-4ce307e4fc6e"
-      (reference "C58") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+      (reference "C58") (unit 1) (value "100nF") (footprint "Neopixel_pico_arcade:C_0805_hidden_silkscreen_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/a8e8e796-c6ea-4d8e-9f5f-0662200bf927"
-      (reference "C59") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+      (reference "C59") (unit 1) (value "100nF") (footprint "Neopixel_pico_arcade:C_0805_hidden_silkscreen_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/a9fa98b5-4ed2-4284-ae85-e15277fce8e9"
-      (reference "C60") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+      (reference "C60") (unit 1) (value "100nF") (footprint "Neopixel_pico_arcade:C_0805_hidden_silkscreen_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/6949a2a6-4643-45f2-9235-69c8648f746c"
-      (reference "C61") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+      (reference "C61") (unit 1) (value "100nF") (footprint "Neopixel_pico_arcade:C_0805_hidden_silkscreen_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/55a7f52a-5c2f-42a1-8727-b1df863cd78a"
-      (reference "C62") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+      (reference "C62") (unit 1) (value "100nF") (footprint "Neopixel_pico_arcade:C_0805_hidden_silkscreen_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/f9dcb6e0-3c86-463e-973d-cae6f11e8f02"
-      (reference "C63") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+      (reference "C63") (unit 1) (value "100nF") (footprint "Neopixel_pico_arcade:C_0805_hidden_silkscreen_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/dba27e93-ec9f-446a-ac3a-4ae396e9ce02"
-      (reference "C64") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+      (reference "C64") (unit 1) (value "100nF") (footprint "Neopixel_pico_arcade:C_0805_hidden_silkscreen_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/27ba2113-98d9-4f06-ae9a-feddf2f38b90"
-      (reference "C65") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+      (reference "C65") (unit 1) (value "100nF") (footprint "Neopixel_pico_arcade:C_0805_hidden_silkscreen_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/8bf5d9b8-0968-4a77-810a-b2465fd2fe80"
-      (reference "C66") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+      (reference "C66") (unit 1) (value "100nF") (footprint "Neopixel_pico_arcade:C_0805_hidden_silkscreen_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/ed4fcb8f-53b7-458f-bfaa-4aa127051293/d2af77fd-8c51-4405-aac4-62eaf6341e78"
       (reference "D1") (unit 1) (value "WS2812C") (footprint "Neopixel_pico_arcade:LED_WS2812C_HIDDEN_SILKSCREEN_5.0x5.0mm_P3.2mm")
