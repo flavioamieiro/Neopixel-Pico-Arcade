@@ -215,7 +215,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "F.Cu")
     (tedit 5F68FEEF) (tstamp 00dc1da6-b5d9-46e1-9baf-29f2d34b91b4)
-    (at 361.04 70.16)
+    (at 285 135)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "LCSC" "C49678")
@@ -258,7 +258,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "F.Cu")
     (tedit 5F68FEEF) (tstamp 04a4c4a1-9944-413d-ae65-2cbef92783a3)
-    (at 363.45 57.52)
+    (at 231 117)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "LCSC" "C49678")
@@ -301,7 +301,7 @@
 
   (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" (layer "F.Cu")
     (tedit 5AA4B285) (tstamp 0508a096-386c-42ac-8632-2992a3603ed5)
-    (at 370 183)
+    (at 249 131)
     (descr "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
     (tags "LED RGB NeoPixel")
     (property "LCSC" "C114587")
@@ -355,7 +355,7 @@
 
   (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" (layer "F.Cu")
     (tedit 5AA4B285) (tstamp 0748d06f-5d6a-4d7e-bd24-74677e6c20b3)
-    (at 379 156)
+    (at 258 104)
     (descr "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
     (tags "LED RGB NeoPixel")
     (property "LCSC" "C114587")
@@ -409,7 +409,7 @@
 
   (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" (layer "F.Cu")
     (tedit 5AA4B285) (tstamp 08ccc2d3-ceb3-4034-9b18-fd112da02abe)
-    (at 406 156)
+    (at 285 104)
     (descr "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
     (tags "LED RGB NeoPixel")
     (property "LCSC" "C114587")
@@ -463,7 +463,7 @@
 
   (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" (layer "F.Cu")
     (tedit 5AA4B285) (tstamp 0c7d4009-83b5-4aa9-8c1c-0bb65024f58c)
-    (at 370 165)
+    (at 249 113)
     (descr "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
     (tags "LED RGB NeoPixel")
     (property "LCSC" "C114587")
@@ -517,7 +517,7 @@
 
   (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" (layer "F.Cu")
     (tedit 5AA4B285) (tstamp 0ebd82cb-851f-462f-8bc5-35f60aa7bfeb)
-    (at 397 165)
+    (at 276 113)
     (descr "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
     (tags "LED RGB NeoPixel")
     (property "LCSC" "C114587")
@@ -571,7 +571,7 @@
 
   (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" (layer "F.Cu")
     (tedit 5AA4B285) (tstamp 0f472434-a97c-46da-8481-bfd99d18ccbe)
-    (at 397 183)
+    (at 276 131)
     (descr "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
     (tags "LED RGB NeoPixel")
     (property "LCSC" "C114587")
@@ -625,7 +625,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "F.Cu")
     (tedit 5F68FEEF) (tstamp 0f9e9e10-c238-4792-a698-d58c5d32df32)
-    (at 371.87 53.91)
+    (at 258 135)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "LCSC" "C49678")
@@ -668,7 +668,7 @@
 
   (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" (layer "F.Cu")
     (tedit 5AA4B285) (tstamp 1042f880-67ea-4ac0-9362-3905cdee5b14)
-    (at 343 147)
+    (at 222 95)
     (descr "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
     (tags "LED RGB NeoPixel")
     (property "LCSC" "C114587")
@@ -722,7 +722,7 @@
 
   (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" (layer "F.Cu")
     (tedit 5AA4B285) (tstamp 110290ed-f2dd-4119-bcea-7c75dc7f7e02)
-    (at 406 165)
+    (at 285 113)
     (descr "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
     (tags "LED RGB NeoPixel")
     (property "LCSC" "C114587")
@@ -776,7 +776,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "F.Cu")
     (tedit 5F68FEEF) (tstamp 12cd2d4c-ea58-4d0b-9e6e-ee827cafb81d)
-    (at 373.07 59.93)
+    (at 249 90)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "LCSC" "C49678")
@@ -819,7 +819,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "F.Cu")
     (tedit 5F68FEEF) (tstamp 164f7e2d-58ca-41ea-a84a-90c0460095f1)
-    (at 351.42 70.76)
+    (at 258 81)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "LCSC" "C49678")
@@ -850,9 +850,9 @@
     (fp_line (start 1 -0.625) (end 1 0.625) (layer "F.Fab") (width 0.1) (tstamp 5500e771-63cc-48f5-9d16-f12815cf9e78))
     (fp_line (start -1 0.625) (end -1 -0.625) (layer "F.Fab") (width 0.1) (tstamp 7d323dfa-361a-4338-ba1a-b6b2245de5fd))
     (pad "1" smd roundrect locked (at -1.0375 0) (size 1.175 1.45) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.212766)
-      (net 2 "+5V") (pintype "passive") (tstamp 00930a6d-2168-4f12-bc0a-d23bc37fc9a9))
+      (net 2 "+5V") (tstamp 00930a6d-2168-4f12-bc0a-d23bc37fc9a9))
     (pad "2" smd roundrect locked (at 1.0375 0) (size 1.175 1.45) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.212766)
-      (net 4 "GND") (pintype "passive") (tstamp fab31a79-853a-454f-af44-9d964458fc16))
+      (net 4 "GND") (tstamp fab31a79-853a-454f-af44-9d964458fc16))
     (model "${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0805_2012Metric.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
@@ -862,7 +862,7 @@
 
   (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" (layer "F.Cu")
     (tedit 5AA4B285) (tstamp 169ce437-de40-49c0-84f1-bc81c58d7412)
-    (at 352 183)
+    (at 231 131)
     (descr "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
     (tags "LED RGB NeoPixel")
     (property "LCSC" "C114587")
@@ -916,7 +916,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "F.Cu")
     (tedit 5F68FEEF) (tstamp 1737da8b-07bf-46ea-aace-4e6b0d4f7d03)
-    (at 388.71 37.06)
+    (at 267 90)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "LCSC" "C49678")
@@ -959,7 +959,7 @@
 
   (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" (layer "F.Cu")
     (tedit 5AA4B285) (tstamp 1b01b3a0-f424-44d0-833e-8cafa04c9dd3)
-    (at 361 129)
+    (at 240 77)
     (descr "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
     (tags "LED RGB NeoPixel")
     (property "LCSC" "C114587")
@@ -1013,7 +1013,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "F.Cu")
     (tedit 5F68FEEF) (tstamp 1c0202d8-fd9c-4f95-8b64-0d78e71a84c2)
-    (at 364.65 66.55)
+    (at 249 117)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "LCSC" "C49678")
@@ -1056,7 +1056,7 @@
 
   (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" (layer "F.Cu")
     (tedit 5AA4B285) (tstamp 1efb3cf5-4834-401a-93e3-a1c51c67a9dc)
-    (at 343 129)
+    (at 222 77)
     (descr "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
     (tags "LED RGB NeoPixel")
     (property "LCSC" "C114587")
@@ -1110,7 +1110,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "F.Cu")
     (tedit 5F68FEEF) (tstamp 236a03e3-67ad-4105-a453-e6c03711bb66)
-    (at 364.65 63.54)
+    (at 249 81)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "LCSC" "C49678")
@@ -1153,7 +1153,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "F.Cu")
     (tedit 5F68FEEF) (tstamp 23f85591-836c-4ba3-abcd-eb9e8d152fce)
-    (at 369.46 66.55)
+    (at 276 99)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "LCSC" "C49678")
@@ -1196,7 +1196,7 @@
 
   (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" (layer "F.Cu")
     (tedit 5AA4B285) (tstamp 277e3a4b-fbb9-4d65-839a-b2265d6a8982)
-    (at 343 165)
+    (at 222 113)
     (descr "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
     (tags "LED RGB NeoPixel")
     (property "LCSC" "C114587")
@@ -1250,7 +1250,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "F.Cu")
     (tedit 5F68FEEF) (tstamp 2b05687f-faf8-4d93-8525-9f19a54e0fe3)
-    (at 346.61 73.77)
+    (at 249 99)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "LCSC" "C49678")
@@ -1293,7 +1293,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "F.Cu")
     (tedit 5F68FEEF) (tstamp 2b4f239a-fd15-44d5-9aae-b4d21adb413d)
-    (at 365.85 69.56)
+    (at 276 126)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "LCSC" "C49678")
@@ -1336,7 +1336,7 @@
 
   (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" (layer "F.Cu")
     (tedit 5AA4B285) (tstamp 2f70457c-043b-4e11-bc16-e9770d5380c8)
-    (at 388 120)
+    (at 267 68)
     (descr "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
     (tags "LED RGB NeoPixel")
     (property "LCSC" "C114587")
@@ -1390,7 +1390,7 @@
 
   (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" (layer "F.Cu")
     (tedit 5AA4B285) (tstamp 30aa9dcd-665d-4d4d-845f-e77644c3df46)
-    (at 397 174)
+    (at 276 122)
     (descr "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
     (tags "LED RGB NeoPixel")
     (property "LCSC" "C114587")
@@ -1444,7 +1444,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "F.Cu")
     (tedit 5F68FEEF) (tstamp 30c0663f-fcb5-4974-8daf-b04933857416)
-    (at 398.33 34.05)
+    (at 231 81)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "LCSC" "C49678")
@@ -1487,7 +1487,7 @@
 
   (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" (layer "F.Cu")
     (tedit 5AA4B285) (tstamp 31e13f2b-c179-4154-874b-6490119e92f8)
-    (at 406 138)
+    (at 285 86)
     (descr "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
     (tags "LED RGB NeoPixel")
     (property "LCSC" "C114587")
@@ -1541,7 +1541,7 @@
 
   (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" (layer "F.Cu")
     (tedit 5AA4B285) (tstamp 320c4729-36a2-4602-9aad-ec19ef0b82ba)
-    (at 406 183)
+    (at 285 131)
     (descr "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
     (tags "LED RGB NeoPixel")
     (property "LCSC" "C114587")
@@ -1595,7 +1595,7 @@
 
   (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" (layer "F.Cu")
     (tedit 5AA4B285) (tstamp 35ac9082-70a2-4435-82a2-3fb776571544)
-    (at 361 156)
+    (at 240 104)
     (descr "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
     (tags "LED RGB NeoPixel")
     (property "LCSC" "C114587")
@@ -1649,7 +1649,7 @@
 
   (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" (layer "F.Cu")
     (tedit 5AA4B285) (tstamp 367bc127-508c-4dba-893d-fd8de55c08d0)
-    (at 388 147)
+    (at 267 95)
     (descr "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
     (tags "LED RGB NeoPixel")
     (property "LCSC" "C114587")
@@ -1703,7 +1703,7 @@
 
   (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" (layer "F.Cu")
     (tedit 5AA4B285) (tstamp 381ec4cf-c58b-47de-83d9-65756a4830c7)
-    (at 370 174)
+    (at 249 122)
     (descr "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
     (tags "LED RGB NeoPixel")
     (property "LCSC" "C114587")
@@ -1757,7 +1757,7 @@
 
   (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" (layer "F.Cu")
     (tedit 5AA4B285) (tstamp 3a4f9e89-801b-4dbe-87a8-15a344fd527d)
-    (at 406 129)
+    (at 285 77)
     (descr "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
     (tags "LED RGB NeoPixel")
     (property "LCSC" "C114587")
@@ -1811,7 +1811,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "F.Cu")
     (tedit 5F68FEEF) (tstamp 3ab21b56-eae7-4d29-af1b-c757509a2747)
-    (at 389.91 46.09)
+    (at 285 81)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "LCSC" "C49678")
@@ -1854,7 +1854,7 @@
 
   (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" (layer "F.Cu")
     (tedit 5AA4B285) (tstamp 3b7753a2-95fa-4112-8eb1-5c9f6e87376e)
-    (at 397 156)
+    (at 276 104)
     (descr "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
     (tags "LED RGB NeoPixel")
     (property "LCSC" "C114587")
@@ -1908,7 +1908,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "F.Cu")
     (tedit 5F68FEEF) (tstamp 3c13f5e9-4459-4c3e-a39c-768f21107f46)
-    (at 355.03 67.15)
+    (at 231 126)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "LCSC" "C49678")
@@ -1951,7 +1951,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "F.Cu")
     (tedit 5F68FEEF) (tstamp 3c822acc-9938-4ddb-8a59-5d9b1b696b61)
-    (at 398.33 37.06)
+    (at 267 108)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "LCSC" "C49678")
@@ -1994,7 +1994,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "F.Cu")
     (tedit 5F68FEEF) (tstamp 410557cf-a08b-42ea-842c-cda9e58f5f25)
-    (at 380.29 47.29)
+    (at 240 90)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "LCSC" "C49678")
@@ -2037,7 +2037,7 @@
 
   (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" (layer "F.Cu")
     (tedit 5AA4B285) (tstamp 41163033-796f-446b-9169-89e26ea3562d)
-    (at 388 129)
+    (at 267 77)
     (descr "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
     (tags "LED RGB NeoPixel")
     (property "LCSC" "C114587")
@@ -2091,7 +2091,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "F.Cu")
     (tedit 5F68FEEF) (tstamp 423f93e9-425f-4f06-83e6-6bfd8de511ae)
-    (at 368.26 60.53)
+    (at 276 72)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "LCSC" "C49678")
@@ -2134,7 +2134,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "F.Cu")
     (tedit 5F68FEEF) (tstamp 44454705-b60d-4245-beed-65c1deafb3fd)
-    (at 393.52 37.06)
+    (at 276 135)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "LCSC" "C49678")
@@ -2177,7 +2177,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "F.Cu")
     (tedit 5F68FEEF) (tstamp 4567a4dc-804b-46a7-add1-11ec9b00c8a1)
-    (at 351.42 73.77)
+    (at 258 90)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "LCSC" "C49678")
@@ -2220,7 +2220,7 @@
 
   (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" (layer "F.Cu")
     (tedit 5AA4B285) (tstamp 47b107dc-2fb3-4911-ad7f-88f679309882)
-    (at 406 147)
+    (at 285 95)
     (descr "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
     (tags "LED RGB NeoPixel")
     (property "LCSC" "C114587")
@@ -2274,7 +2274,7 @@
 
   (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" (layer "F.Cu")
     (tedit 5AA4B285) (tstamp 4863e105-ebcb-4d70-af70-46848455061a)
-    (at 379 147)
+    (at 258 95)
     (descr "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
     (tags "LED RGB NeoPixel")
     (property "LCSC" "C114587")
@@ -2328,7 +2328,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "F.Cu")
     (tedit 5F68FEEF) (tstamp 4906d4f0-74bc-4886-b559-e1aa930312f8)
-    (at 389.91 43.08)
+    (at 285 72)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "LCSC" "C49678")
@@ -2371,7 +2371,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "F.Cu")
     (tedit 5F68FEEF) (tstamp 4adb0160-2f1e-4f1b-9fae-b4a33f11b728)
-    (at 356.23 76.18)
+    (at 276 117)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "LCSC" "C49678")
@@ -2414,7 +2414,7 @@
 
   (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" (layer "F.Cu")
     (tedit 5AA4B285) (tstamp 53818f36-efb4-4c31-a3c6-990c55b616d8)
-    (at 388 156)
+    (at 267 104)
     (descr "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
     (tags "LED RGB NeoPixel")
     (property "LCSC" "C114587")
@@ -2468,7 +2468,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "F.Cu")
     (tedit 5F68FEEF) (tstamp 53833b94-ba5b-4dcd-91b9-ff394d0e53b5)
-    (at 338.19 84)
+    (at 267 72)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "LCSC" "C49678")
@@ -2511,7 +2511,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "F.Cu")
     (tedit 5F68FEEF) (tstamp 549aff2f-5ce9-4b13-b0b0-526a70ab8356)
-    (at 380.29 44.28)
+    (at 267 99)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "LCSC" "C49678")
@@ -2554,7 +2554,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "F.Cu")
     (tedit 5F68FEEF) (tstamp 54c10d35-5266-48db-bfa6-4e4fce7e5007)
-    (at 352.62 82.8)
+    (at 285 117)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "LCSC" "C49678")
@@ -2597,7 +2597,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "F.Cu")
     (tedit 5F68FEEF) (tstamp 557d1f64-074e-447e-af6c-3be35c66c134)
-    (at 394.72 43.08)
+    (at 231 108)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "LCSC" "C49678")
@@ -2640,7 +2640,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "F.Cu")
     (tedit 5F68FEEF) (tstamp 5a0f538a-d3c6-44f8-989d-5657da5edcba)
-    (at 388.71 40.07)
+    (at 258 126)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "LCSC" "C49678")
@@ -2683,7 +2683,7 @@
 
   (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" (layer "F.Cu")
     (tedit 5AA4B285) (tstamp 5cdb6d92-ad47-45b5-8333-c6c0b473d93a)
-    (at 352 156)
+    (at 231 104)
     (descr "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
     (tags "LED RGB NeoPixel")
     (property "LCSC" "C114587")
@@ -2737,7 +2737,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "F.Cu")
     (tedit 5F68FEEF) (tstamp 5e9fa9f6-b432-4f1f-84de-b1a6ab557012)
-    (at 381.49 53.31)
+    (at 285 99)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "LCSC" "C49678")
@@ -2780,7 +2780,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "F.Cu")
     (tedit 5F68FEEF) (tstamp 602ef2e5-8a52-4546-a3cb-861a1eefa2de)
-    (at 393.52 34.05)
+    (at 267 126)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "LCSC" "C49678")
@@ -2823,7 +2823,7 @@
 
   (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" (layer "F.Cu")
     (tedit 5AA4B285) (tstamp 62575c8f-ce66-4157-b261-121c48cab8bf)
-    (at 397 129)
+    (at 276 77)
     (descr "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
     (tags "LED RGB NeoPixel")
     (property "LCSC" "C114587")
@@ -2877,7 +2877,7 @@
 
   (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" (layer "F.Cu")
     (tedit 5AA4B285) (tstamp 69092e22-d316-44af-92f5-b7e5dc9c7e3a)
-    (at 352 165)
+    (at 231 113)
     (descr "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
     (tags "LED RGB NeoPixel")
     (property "LCSC" "C114587")
@@ -2931,7 +2931,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "F.Cu")
     (tedit 5F68FEEF) (tstamp 693562a6-f85b-4b41-95a3-01df88471ebc)
-    (at 393.52 40.07)
+    (at 222 81)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "LCSC" "C49678")
@@ -2962,9 +2962,9 @@
     (fp_line (start 1 -0.625) (end 1 0.625) (layer "F.Fab") (width 0.1) (tstamp 67aa20a9-56f3-4f91-9d67-8f18251945c6))
     (fp_line (start 1 0.625) (end -1 0.625) (layer "F.Fab") (width 0.1) (tstamp 6e1ba65a-b8e6-427b-9647-e635b1516854))
     (pad "1" smd roundrect locked (at -1.0375 0) (size 1.175 1.45) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.212766)
-      (net 2 "+5V") (pintype "passive") (tstamp a963d94c-4fea-4489-96b7-bb63b21bcb80))
+      (net 2 "+5V") (tstamp a963d94c-4fea-4489-96b7-bb63b21bcb80))
     (pad "2" smd roundrect locked (at 1.0375 0) (size 1.175 1.45) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.212766)
-      (net 4 "GND") (pintype "passive") (tstamp e15a1f16-886f-474d-a981-03a4d09a1c96))
+      (net 4 "GND") (tstamp e15a1f16-886f-474d-a981-03a4d09a1c96))
     (model "${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0805_2012Metric.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
@@ -2974,7 +2974,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "F.Cu")
     (tedit 5F68FEEF) (tstamp 69963e41-1b53-4189-b715-3e50c83a2e99)
-    (at 388.71 31.04)
+    (at 276 108)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "LCSC" "C49678")
@@ -3017,7 +3017,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "F.Cu")
     (tedit 5F68FEEF) (tstamp 6b2f1b28-f410-4ec1-a655-385f9b839351)
-    (at 388.71 34.05)
+    (at 240 117)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "LCSC" "C49678")
@@ -3060,7 +3060,7 @@
 
   (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" (layer "F.Cu")
     (tedit 5AA4B285) (tstamp 6b7e6cc0-9611-4f40-a85a-0375242af69e)
-    (at 361 147)
+    (at 240 95)
     (descr "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
     (tags "LED RGB NeoPixel")
     (property "LCSC" "C114587")
@@ -3114,7 +3114,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "F.Cu")
     (tedit 5F68FEEF) (tstamp 6c73970b-6e42-4bce-b6de-490eaaafd38a)
-    (at 386.3 50.3)
+    (at 258 72)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "LCSC" "C49678")
@@ -3157,7 +3157,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "F.Cu")
     (tedit 5F68FEEF) (tstamp 72f6949e-92b1-4cc6-a0e3-4d76b77578b3)
-    (at 385.1 47.29)
+    (at 240 72)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "LCSC" "C49678")
@@ -3200,7 +3200,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "F.Cu")
     (tedit 5F68FEEF) (tstamp 7d34f8f7-97fc-4257-b9cd-7a0eecaf5b04)
-    (at 356.23 79.19)
+    (at 222 99)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "LCSC" "C49678")
@@ -3243,7 +3243,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "F.Cu")
     (tedit 5F68FEEF) (tstamp 7e824d4c-e0a1-4180-a886-d141b98bb44d)
-    (at 346.61 70.76)
+    (at 231 99)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "LCSC" "C49678")
@@ -3286,7 +3286,7 @@
 
   (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" (layer "F.Cu")
     (tedit 5AA4B285) (tstamp 7eb6e110-eb81-417c-bee4-2fb05f9b4f09)
-    (at 406 174)
+    (at 285 122)
     (descr "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
     (tags "LED RGB NeoPixel")
     (property "LCSC" "C114587")
@@ -3340,7 +3340,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "F.Cu")
     (tedit 5F68FEEF) (tstamp 7ec523ab-9b65-49bc-9468-007a0f5fbc2c)
-    (at 372 50.5)
+    (at 222 108)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "LCSC" "C49678")
@@ -3383,7 +3383,7 @@
 
   (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" (layer "F.Cu")
     (tedit 5AA4B285) (tstamp 80d5e6a4-280a-4d8e-93f7-26c405a063e6)
-    (at 352 174)
+    (at 231 122)
     (descr "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
     (tags "LED RGB NeoPixel")
     (property "LCSC" "C114587")
@@ -3437,7 +3437,7 @@
 
   (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" (layer "F.Cu")
     (tedit 5AA4B285) (tstamp 816e4320-5d41-470b-bab8-fa619a702a53)
-    (at 388 183)
+    (at 267 131)
     (descr "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
     (tags "LED RGB NeoPixel")
     (property "LCSC" "C114587")
@@ -3491,7 +3491,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "F.Cu")
     (tedit 5F68FEEF) (tstamp 828630df-3c9e-480e-8b74-cf94ac067210)
-    (at 351.42 79.79)
+    (at 231 72)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "LCSC" "C49678")
@@ -3534,7 +3534,7 @@
 
   (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" (layer "F.Cu")
     (tedit 5AA4B285) (tstamp 85e7353b-3aac-4175-b798-8b65a4f3ca65)
-    (at 361 183)
+    (at 240 131)
     (descr "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
     (tags "LED RGB NeoPixel")
     (property "LCSC" "C114587")
@@ -3588,7 +3588,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "F.Cu")
     (tedit 5F68FEEF) (tstamp 87b8dc6f-1c11-4fd3-a9d0-20e7c8a9b7b9)
-    (at 356.23 73.17)
+    (at 258 108)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "LCSC" "C49678")
@@ -3631,7 +3631,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "F.Cu")
     (tedit 5F68FEEF) (tstamp 88d379dc-a0d8-410a-84dd-6cb28dd04540)
-    (at 346.61 79.79)
+    (at 249 72)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "LCSC" "C49678")
@@ -3674,7 +3674,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "F.Cu")
     (tedit 5F68FEEF) (tstamp 88d514f2-3576-4b0a-9c0a-ac4e5374a181)
-    (at 369.46 63.54)
+    (at 249 108)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "LCSC" "C49678")
@@ -3717,7 +3717,7 @@
 
   (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" (layer "F.Cu")
     (tedit 5AA4B285) (tstamp 89356e83-5812-4a86-9c03-106c2c5ae408)
-    (at 379 183)
+    (at 258 131)
     (descr "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
     (tags "LED RGB NeoPixel")
     (property "LCSC" "C114587")
@@ -3771,7 +3771,7 @@
 
   (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" (layer "F.Cu")
     (tedit 5AA4B285) (tstamp 89524c1a-db5e-4906-87f0-cfc2ad8d5b6f)
-    (at 352 138)
+    (at 231 86)
     (descr "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
     (tags "LED RGB NeoPixel")
     (property "LCSC" "C114587")
@@ -3825,7 +3825,7 @@
 
   (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" (layer "F.Cu")
     (tedit 5AA4B285) (tstamp 896a4b2f-5c63-482f-8781-51ecf1100155)
-    (at 343 138)
+    (at 222 86)
     (descr "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
     (tags "LED RGB NeoPixel")
     (property "LCSC" "C114587")
@@ -3879,7 +3879,7 @@
 
   (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" (layer "F.Cu")
     (tedit 5AA4B285) (tstamp 8b685fef-63b2-4130-a1e2-8e8c2a03c173)
-    (at 343 120)
+    (at 222 68)
     (descr "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
     (tags "LED RGB NeoPixel")
     (property "LCSC" "C114587")
@@ -3933,7 +3933,7 @@
 
   (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" (layer "F.Cu")
     (tedit 5AA4B285) (tstamp 8c030da1-cbba-4c0c-bc4e-9da119912e3c)
-    (at 370 147)
+    (at 249 95)
     (descr "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
     (tags "LED RGB NeoPixel")
     (property "LCSC" "C114587")
@@ -3987,7 +3987,7 @@
 
   (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" (layer "F.Cu")
     (tedit 5AA4B285) (tstamp 8dd52da4-26c5-45cf-b88f-07de1911d546)
-    (at 379 120)
+    (at 258 68)
     (descr "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
     (tags "LED RGB NeoPixel")
     (property "LCSC" "C114587")
@@ -4041,7 +4041,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "F.Cu")
     (tedit 5F68FEEF) (tstamp 91b180ec-127c-41a9-bb12-0202c117635f)
-    (at 355.03 63)
+    (at 222 117)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "LCSC" "C49678")
@@ -4084,7 +4084,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "F.Cu")
     (tedit 5F68FEEF) (tstamp 937899b3-2756-4f5e-9125-473617ad2d77)
-    (at 381.49 50.3)
+    (at 222 126)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "LCSC" "C49678")
@@ -4127,7 +4127,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "F.Cu")
     (tedit 5F68FEEF) (tstamp 97321d1c-09c5-4cfc-881f-b0995592718e)
-    (at 403.14 31.04)
+    (at 276 81)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "LCSC" "C49678")
@@ -4170,7 +4170,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "F.Cu")
     (tedit 5F68FEEF) (tstamp 99456f01-ee66-458f-80a9-ce1f9296564f)
-    (at 363.45 60.53)
+    (at 267 135)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "LCSC" "C49678")
@@ -4213,7 +4213,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "F.Cu")
     (tedit 5F68FEEF) (tstamp 9ce229a9-a5e6-4440-91b5-4479121dba3d)
-    (at 343 84)
+    (at 231 90)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "LCSC" "C49678")
@@ -4256,7 +4256,7 @@
 
   (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" (layer "F.Cu")
     (tedit 5AA4B285) (tstamp a0501359-e67c-4b4e-b9e6-1eaa31e0f399)
-    (at 361 165)
+    (at 240 113)
     (descr "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
     (tags "LED RGB NeoPixel")
     (property "LCSC" "C114587")
@@ -4310,7 +4310,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "F.Cu")
     (tedit 5F68FEEF) (tstamp a0a23391-4e93-45c7-be45-c7fd73cd9fb4)
-    (at 373.07 56.92)
+    (at 276 90)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "LCSC" "C49678")
@@ -4353,7 +4353,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "F.Cu")
     (tedit 5F68FEEF) (tstamp a14e9a08-8691-4094-a037-c97c939ea910)
-    (at 393.52 31.04)
+    (at 240 81)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "LCSC" "C49678")
@@ -4396,7 +4396,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "F.Cu")
     (tedit 5F68FEEF) (tstamp a2fd8759-be4d-42ea-a9ec-825d93bed549)
-    (at 376.68 50.9)
+    (at 249 126)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "LCSC" "C49678")
@@ -4439,7 +4439,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "F.Cu")
     (tedit 5F68FEEF) (tstamp a34f39ba-3116-456e-a811-9dbd6614670e)
-    (at 385.1 44)
+    (at 258 117)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "LCSC" "C49678")
@@ -4482,7 +4482,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "F.Cu")
     (tedit 5F68FEEF) (tstamp a68ae684-4dea-467b-be7e-de2fdaea7398)
-    (at 398.33 31.04)
+    (at 240 99)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "LCSC" "C49678")
@@ -4525,7 +4525,7 @@
 
   (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" (layer "F.Cu")
     (tedit 5AA4B285) (tstamp a74467f7-3f85-447e-91de-30a6feb9c1eb)
-    (at 361 174)
+    (at 240 122)
     (descr "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
     (tags "LED RGB NeoPixel")
     (property "LCSC" "C114587")
@@ -4579,7 +4579,7 @@
 
   (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" (layer "F.Cu")
     (tedit 5AA4B285) (tstamp a86643eb-2730-4c64-98df-b13f0e6f36dd)
-    (at 388 138)
+    (at 267 86)
     (descr "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
     (tags "LED RGB NeoPixel")
     (property "LCSC" "C114587")
@@ -4633,7 +4633,7 @@
 
   (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" (layer "F.Cu")
     (tedit 5AA4B285) (tstamp aa5cc95a-d8c8-4900-ba54-eafa2d3c7e84)
-    (at 361 138)
+    (at 240 86)
     (descr "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
     (tags "LED RGB NeoPixel")
     (property "LCSC" "C114587")
@@ -4687,7 +4687,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "F.Cu")
     (tedit 5F68FEEF) (tstamp acf34732-1d31-44c9-8198-2ac3e67d1a8f)
-    (at 361.04 73.17)
+    (at 231 135)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "LCSC" "C49678")
@@ -4730,7 +4730,7 @@
 
   (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" (layer "F.Cu")
     (tedit 5AA4B285) (tstamp afca48be-a9e4-46a7-bec1-b97a9df70949)
-    (at 370 129)
+    (at 249 77)
     (descr "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
     (tags "LED RGB NeoPixel")
     (property "LCSC" "C114587")
@@ -4843,7 +4843,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "F.Cu")
     (tedit 5F68FEEF) (tstamp b1ee6527-f168-4bfd-8479-cf3e29f18068)
-    (at 347.81 82.8)
+    (at 222 135)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "LCSC" "C49678")
@@ -4886,7 +4886,7 @@
 
   (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" (layer "F.Cu")
     (tedit 5AA4B285) (tstamp b68f9740-ef52-4c17-a962-544860b9b316)
-    (at 388 174)
+    (at 267 122)
     (descr "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
     (tags "LED RGB NeoPixel")
     (property "LCSC" "C114587")
@@ -4940,7 +4940,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "F.Cu")
     (tedit 5F68FEEF) (tstamp b68fbe7f-6dc9-451f-b20c-511305d5c40e)
-    (at 346.61 76.78)
+    (at 267 81)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "LCSC" "C49678")
@@ -4971,9 +4971,9 @@
     (fp_line (start 1 0.625) (end -1 0.625) (layer "F.Fab") (width 0.1) (tstamp d14499d2-90ec-48e5-98af-df253c59bc77))
     (fp_line (start -1 -0.625) (end 1 -0.625) (layer "F.Fab") (width 0.1) (tstamp dd9dc29e-641b-4d09-b236-aa64af014303))
     (pad "1" smd roundrect locked (at -1.0375 0) (size 1.175 1.45) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.212766)
-      (net 2 "+5V") (pintype "passive") (tstamp 01c64f2f-90f9-4234-b4aa-ebf8fce351cd))
+      (net 2 "+5V") (tstamp 01c64f2f-90f9-4234-b4aa-ebf8fce351cd))
     (pad "2" smd roundrect locked (at 1.0375 0) (size 1.175 1.45) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.212766)
-      (net 4 "GND") (pintype "passive") (tstamp 8c37139d-c948-4569-a294-37cedc2fbc42))
+      (net 4 "GND") (tstamp 8c37139d-c948-4569-a294-37cedc2fbc42))
     (model "${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0805_2012Metric.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
@@ -4983,7 +4983,7 @@
 
   (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" (layer "F.Cu")
     (tedit 5AA4B285) (tstamp b7481fa9-7fa5-4e50-b41d-663f543f6086)
-    (at 343 156)
+    (at 222 104)
     (descr "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
     (tags "LED RGB NeoPixel")
     (property "LCSC" "C114587")
@@ -5037,7 +5037,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "F.Cu")
     (tedit 5F68FEEF) (tstamp c07e1ea4-4b20-4635-ae14-cc7358fc5237)
-    (at 338.19 87.01)
+    (at 267 117)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "LCSC" "C49678")
@@ -5080,7 +5080,7 @@
 
   (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" (layer "F.Cu")
     (tedit 5AA4B285) (tstamp c1c41e49-9b32-4d18-971f-3200874242ff)
-    (at 379 165)
+    (at 258 113)
     (descr "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
     (tags "LED RGB NeoPixel")
     (property "LCSC" "C114587")
@@ -5134,7 +5134,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "F.Cu")
     (tedit 5F68FEEF) (tstamp c27e65e5-1ceb-4a89-a148-7aaa9253a72c)
-    (at 356.23 70.16)
+    (at 249 135)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "LCSC" "C49678")
@@ -5177,7 +5177,7 @@
 
   (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" (layer "F.Cu")
     (tedit 5AA4B285) (tstamp c2e10543-778e-4ed1-9a7e-716fa66ed6ee)
-    (at 379 138)
+    (at 258 86)
     (descr "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
     (tags "LED RGB NeoPixel")
     (property "LCSC" "C114587")
@@ -5231,7 +5231,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "F.Cu")
     (tedit 5F68FEEF) (tstamp c341e125-480c-4385-9cc1-a8a18126b4ed)
-    (at 376.68 53.91)
+    (at 222 90)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "LCSC" "C49678")
@@ -5274,7 +5274,7 @@
 
   (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" (layer "F.Cu")
     (tedit 5AA4B285) (tstamp c498642f-b32c-4801-8f7c-f1ce898916aa)
-    (at 370 138)
+    (at 249 86)
     (descr "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
     (tags "LED RGB NeoPixel")
     (property "LCSC" "C114587")
@@ -5328,7 +5328,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "F.Cu")
     (tedit 5F68FEEF) (tstamp c6310e82-b628-40b2-80c0-2898a8ebca32)
-    (at 403.14 34.05)
+    (at 240 135)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "LCSC" "C49678")
@@ -5371,7 +5371,7 @@
 
   (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" (layer "F.Cu")
     (tedit 5AA4B285) (tstamp c8c6c005-aa1b-4953-8aad-37fb733eb81d)
-    (at 379 174)
+    (at 258 122)
     (descr "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
     (tags "LED RGB NeoPixel")
     (property "LCSC" "C114587")
@@ -5425,7 +5425,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "F.Cu")
     (tedit 5F68FEEF) (tstamp ce684ce8-b82d-4b48-a566-e7edbd7fe632)
-    (at 343 87.01)
+    (at 285 126)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "LCSC" "C49678")
@@ -5468,7 +5468,7 @@
 
   (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" (layer "F.Cu")
     (tedit 5AA4B285) (tstamp cf5ed3cf-c224-48f6-867d-abb7b7de2b75)
-    (at 370 120)
+    (at 249 68)
     (descr "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
     (tags "LED RGB NeoPixel")
     (property "LCSC" "C114587")
@@ -5522,7 +5522,7 @@
 
   (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" (layer "F.Cu")
     (tedit 5AA4B285) (tstamp d246f100-a437-4bdc-a58f-c3e89af89767)
-    (at 370 156)
+    (at 249 104)
     (descr "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
     (tags "LED RGB NeoPixel")
     (property "LCSC" "C114587")
@@ -5576,7 +5576,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "F.Cu")
     (tedit 5F68FEEF) (tstamp d3808110-dfb3-4906-9e44-b1ffd8c36289)
-    (at 359.84 64.14)
+    (at 285 90)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "LCSC" "C49678")
@@ -5619,7 +5619,7 @@
 
   (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" (layer "F.Cu")
     (tedit 5AA4B285) (tstamp d55ebcd2-9d32-4185-8464-8705ca2573e7)
-    (at 379 129)
+    (at 258 77)
     (descr "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
     (tags "LED RGB NeoPixel")
     (property "LCSC" "C114587")
@@ -5673,7 +5673,7 @@
 
   (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" (layer "F.Cu")
     (tedit 5AA4B285) (tstamp e025a46f-a484-4c7f-abb1-e7dc53712508)
-    (at 343 174)
+    (at 222 122)
     (descr "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
     (tags "LED RGB NeoPixel")
     (property "LCSC" "C114587")
@@ -5727,7 +5727,7 @@
 
   (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" (layer "F.Cu")
     (tedit 5AA4B285) (tstamp e548416d-24ff-42a6-a475-810a1e05ae07)
-    (at 397 138)
+    (at 276 86)
     (descr "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
     (tags "LED RGB NeoPixel")
     (property "LCSC" "C114587")
@@ -5781,7 +5781,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "F.Cu")
     (tedit 5F68FEEF) (tstamp e81147f4-c8dc-440c-9c7b-997de22982ae)
-    (at 359.84 67.15)
+    (at 285 108)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "LCSC" "C49678")
@@ -5824,7 +5824,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "F.Cu")
     (tedit 5F68FEEF) (tstamp eba24afa-00ff-4e48-8ab9-5aa5f98d83dd)
-    (at 368.26 57.52)
+    (at 240.0375 126)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "LCSC" "C49678")
@@ -5867,7 +5867,7 @@
 
   (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" (layer "F.Cu")
     (tedit 5AA4B285) (tstamp ec22c7fc-f4ab-4748-ba88-7900571876ee)
-    (at 352 129)
+    (at 231 77)
     (descr "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
     (tags "LED RGB NeoPixel")
     (property "LCSC" "C114587")
@@ -5921,7 +5921,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "F.Cu")
     (tedit 5F68FEEF) (tstamp f13af865-3149-405e-8089-e46dea4e4c0c)
-    (at 347.81 85.81)
+    (at 222 72)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "LCSC" "C49678")
@@ -5964,7 +5964,7 @@
 
   (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" (layer "F.Cu")
     (tedit 5AA4B285) (tstamp f21f180c-b683-44d9-b4a6-a9353d7cb1a7)
-    (at 343 183)
+    (at 222 131)
     (descr "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
     (tags "LED RGB NeoPixel")
     (property "LCSC" "C114587")
@@ -6018,7 +6018,7 @@
 
   (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" (layer "F.Cu")
     (tedit 5AA4B285) (tstamp f2213f3e-4dfe-4048-8ab1-96e8cb721a52)
-    (at 388 165)
+    (at 267 113)
     (descr "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
     (tags "LED RGB NeoPixel")
     (property "LCSC" "C114587")
@@ -6072,7 +6072,7 @@
 
   (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" (layer "F.Cu")
     (tedit 5AA4B285) (tstamp f288a5eb-c43a-4853-abf0-8716b13cce81)
-    (at 406 120)
+    (at 285 68)
     (descr "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
     (tags "LED RGB NeoPixel")
     (property "LCSC" "C114587")
@@ -6126,7 +6126,7 @@
 
   (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" (layer "F.Cu")
     (tedit 5AA4B285) (tstamp f29f9b21-702b-4e27-8029-5293f4a63fcf)
-    (at 352 120)
+    (at 231 68)
     (descr "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
     (tags "LED RGB NeoPixel")
     (property "LCSC" "C114587")
@@ -6180,7 +6180,7 @@
 
   (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" (layer "F.Cu")
     (tedit 5AA4B285) (tstamp f3e9f1a3-e9a4-4fdb-b33e-cecd1fc0bdc3)
-    (at 361 120)
+    (at 240 68)
     (descr "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
     (tags "LED RGB NeoPixel")
     (property "LCSC" "C114587")
@@ -6234,7 +6234,7 @@
 
   (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" (layer "F.Cu")
     (tedit 5AA4B285) (tstamp f6af810f-814b-4825-b97a-2c89b122a596)
-    (at 397 147)
+    (at 276 95)
     (descr "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
     (tags "LED RGB NeoPixel")
     (property "LCSC" "C114587")
@@ -6288,7 +6288,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "F.Cu")
     (tedit 5F68FEEF) (tstamp f9303d42-d82d-426f-986d-3cf552031645)
-    (at 377.88 56.92)
+    (at 240 108)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "LCSC" "C49678")
@@ -6331,7 +6331,7 @@
 
   (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" (layer "F.Cu")
     (tedit 5AA4B285) (tstamp f94ce303-8416-4664-9a12-1acba01967aa)
-    (at 352 147)
+    (at 231 95)
     (descr "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
     (tags "LED RGB NeoPixel")
     (property "LCSC" "C114587")
@@ -6385,7 +6385,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "F.Cu")
     (tedit 5F68FEEF) (tstamp f995d0b7-96e1-4fbf-86cd-f8f4a3f38c01)
-    (at 351.42 76.78)
+    (at 258 99)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "LCSC" "C49678")
@@ -6428,7 +6428,7 @@
 
   (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" (layer "F.Cu")
     (tedit 5AA4B285) (tstamp f9c007eb-b49c-42b2-b130-4909cfbb21a8)
-    (at 397 120)
+    (at 276 68)
     (descr "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
     (tags "LED RGB NeoPixel")
     (property "LCSC" "C114587")
