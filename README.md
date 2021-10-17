@@ -5,8 +5,8 @@ It's built around the [RP2040
 stamp](https://www.solder.party/rp2040_stamp_datasheet.pdf) designed by
 @arturo182.
 
-![PCB 3D render front][Images/3d_render_front.png]
-![PCB 3D render back][Images/3d_render_back.png]
+![PCB 3D render front](Images/3d_render_front.png)
+![PCB 3D render back](Images/3d_render_back.png)
 
 This source describes Open Hardware and is licensed under the CERN-OHL-S v2.
 You may redistribute and modify this source and make products using it under
